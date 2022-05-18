@@ -38,4 +38,6 @@ repositório que armazena comandos estudados referente a git e github.
     recebe os commits/projeto do repositórios remoto.
 - `git clone` "":
     clona o repositório informado para sua pasta.
+- `git revert`:
+    - reverte o último commit;
 </details>
